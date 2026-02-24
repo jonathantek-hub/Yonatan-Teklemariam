@@ -1,2 +1,3 @@
 # Yonatan-Teklemariam
 personal portfolio
+This project is a simple, stylish personal portfolio webpage created as part of my learning journey in software programming and web development with CYF. My background in crop science, combined with hands‑on experience in warehouse operations, sparked my interest in how data flows, how decisions are made, and how technology can support real‑world challenges. As I continue learning data analytics and programming, this webpage serves as a space to present my skills, projects, and ideas especially those aimed at connecting agriculture, data, and technology to create practical solutions for farmers and crop producers. Thanks.
